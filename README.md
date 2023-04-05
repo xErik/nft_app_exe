@@ -19,3 +19,4 @@ The app is work in progress.
 
 When downloading an files from the Internet, always check with a virus scanner first.
 
+![Screenshot](screenshot.png "Screenshot")

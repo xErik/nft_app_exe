@@ -6,7 +6,10 @@ The app generates JPGs or PNGs and reduces the resulting file size. It also pre-
 
 ## Usage
 
-Unpack the zip and start the EXE.
+
+Download the [zip file](https://github.com/xErik/nft_app_exe/raw/main/nftgen_app.zip)
+
+Unpack the zip file and start the EXE.
 
 ## Important
 
